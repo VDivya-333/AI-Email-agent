@@ -1,4 +1,4 @@
-# Recruitment AI Agent ("Alex")
+# Email AI Agent ("Alex")
 
 An autonomous AI-powered recruitment assistant designed to manage candidate outreach, negotiate rates within budget constraints, and schedule interviews via email.
 
