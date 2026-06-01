@@ -27,7 +27,7 @@ if __name__ == "__main__":
     init_openai_client() # Initialize OpenAI client for reasoning module
 
     prospect_emails = [
-        "vuppuladivya7364@gmail.com",
+        "XXXX@gmail.com",
 
     ]
 
