@@ -14,7 +14,7 @@ if __name__ == "__main__":
 
     # Simulate an incoming email from a candidate
     test_email = {
-        "thread_id": "divyavuppula7364@gmail.com",
+        "thread_id": "XXXXXX@gmail.com",
         "content": "Hi, I am interested in the opportunity. Can you share more details?"
     }
 
