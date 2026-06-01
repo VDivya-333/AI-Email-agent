@@ -165,8 +165,8 @@ def poll_inbox():
                             subject = msg.get("Subject", "(no subject)")
 
                             # STRICT ALLOWLIST CHECK
-                            if from_email != "vuppuladivya7364@gmail.com":
-                                logger.info(f"  └─ [SECURITY] Skipping {from_email}: Agent is restricted to vuppuladivya7364@gmail.com")
+                            if from_email != "XXXXXX@gmail.com":
+                                logger.info(f"  └─ [SECURITY] Skipping {from_email}: Agent is restricted to XXXXX@gmail.com")
                                 continue
                             
                             # Check for Auto-Submitted header (standard for bots/alerts)
